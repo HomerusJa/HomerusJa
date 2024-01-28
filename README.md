@@ -22,28 +22,21 @@
 
 ---
 
-## :hammer_and_wrench: Languages and Tools
-Python
-Poetry -> https://avatars.githubusercontent.com/u/48722593
+## :hammer_and_wrench: Languages and Tool
 
-C++
-Arduino/ESP32
-
-Inkscape
-LaTeX
-
-SolidEdge
-
+### Python
 <div id="Python">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/48722593" title="Poetry" alt="Poetry" width="40" height="40"/>&nbsp;
 </div>
 
+### Microcontroller
 <div id="C++/Arduino">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
 
+### Misc
 <div id="Misc">
     <img src="latexlogo.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
