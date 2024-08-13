@@ -22,7 +22,16 @@
 
 ---
 
-## :hammer_and_wrench: Languages and Tool
+# :package: My Projects
+
+I've got a few projects I want to highlight here:
+
+- :hammer: [`personal_tools`](https://github.com/HomerusJa/personal_tools): This is my personal toolbox, filled with scripts I use in my programming journey to make my life easier
+- :alarm_clock: [`ESP32Timers`](https://github.com/HomerusJa/ESP32Timers): There wasn't a good library for timing and scheduling for the ESP32, so I just wrote my own.
+
+---
+
+## :hammer_and_wrench: Languages and Tools
 
 ### Python
 <div id="Python">
