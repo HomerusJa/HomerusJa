@@ -17,7 +17,7 @@
 
 - :school: I am a german student
 - :calendar: I program since 2019. 
-- :clock1: In my free time, I like to play Minecraft, Cello or basketball/volleyball.
+- :clock1: In my free time, I like to play cello, volleyball and basketball.
 - :mailbox: You can reach me via Discord (see the badge)
 
 ---
