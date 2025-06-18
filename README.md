@@ -1,54 +1,62 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="300"/>
+    <img src="https://avatars.githubusercontent.com/u/144052737?v=4" width="200" style="border-radius: 50%;" />
 </div>
 
 <div id="badges" align="center">
     <a href="https://discord.com/users/1086514620921040906">
-        <img src="https://dcbadge.limes.pink/api/shield/1086514620921040906?style=flat"/>
+        <img src="https://dcbadge.limes.pink/api/shield/1086514620921040906?style=flat" alt="My Discord"/>
     </a>
     <a href="https://github.com/HomerusJa/">
-        <img src="https://komarev.com/ghpvc/?username=HomerusJa&style=flat&color=blue" alt=""/>
+        <img src="https://komarev.com/ghpvc/?username=HomerusJa&style=flat&color=blue" alt="Profile Views"/>
+    </a>
+    <a href="https://bsky.app/profile/homerusja.bsky.social">
+        <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF" alt="Follow me on Bluesky"/>
     </a>
 </div>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there
+# Hi, I'm Jakob 👋
 
-## :man_technologist: About Me
+🇪🇺 European at heart — German/Belgian student living and commuting between both countries daily.  
+Languages: **DE (native)** | **EN** | **FR** (if you can cope with my accent 😉)
 
-- :school: I am a german student
-- :calendar: I program since 2019. 
-- :clock1: In my free time, I like to play cello, volleyball and basketball.
-- :mailbox: You can reach me via Discord (see the badge)
+## 💻 About Me
 
----
+- Passionate **Python** developer — coding since I was about 11.
+- Tinkerer with **ESP32-CAMs, microcontrollers, and hardware projects** when I want to get my hands dirty.
+- Enthusiastic about building model planes, gadgets, and **computer vision systems** — both for fun and science.
+- Currently experimenting with voice interactions with LLMs
 
-# :package: My Projects
+## 🛠️ Tech & Tools
 
-I've got a few projects I want to highlight here:
+**Languages:**  
 
-- :hammer: [`personal_tools`](https://github.com/HomerusJa/personal_tools): This is my personal toolbox, filled with scripts I use in my programming journey to make my life easier
-- :alarm_clock: [`ESP32Timers`](https://github.com/HomerusJa/ESP32Timers): There wasn't a good library for timing and scheduling for the ESP32, so I just wrote my own.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
+![TypeScript (basics)](https://img.shields.io/badge/TypeScript-%28basics%29-3178C6?logo=typescript&logoColor=fff)
 
----
+**Frameworks/Tools:**  
 
-## :hammer_and_wrench: Languages and Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-111111.svg?logo=typer&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
-### Python
-<div id="Python">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/48722593" title="Poetry" alt="Poetry" width="40" height="40"/>&nbsp;
-</div>
+**CAD, Electronics and Tinkering:**
 
-### Microcontroller
-<div id="C++/Arduino">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-</div>
+KiCAD • Fusion 360 • Solid Edge • PlatformIO • Arduino • ESP32/ESP32-CAM
 
-### Misc
-<div id="Misc">
-    <img src="latexlogo.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
-    <img src="Siemens Solid Edge.jpg" title="Solid Edge" alt="Solid Edge" width="40" height="40"/>;
-</div>
+## 🚀 Open Source Contributions
+
+- [meatie](https://github.com/pmateusz/meatie) — A Python metaprogramming library trying to abstract away mechanics related to HTTP communication
+
+## 🎯 Beyond Code
+
+- 🏐 Competitive **volleyball player** — playing in one of the best youth teams in Belgium.
+- 🎧 Curious mind fueled by podcasts like:  
+  [Python Bytes](https://pythonbytes.fm) • [Risky Business](https://risky.biz) • [Talk Python](https://talkpython.fm) • [Mindscape](https://preposterousuniverse.com)
+- 🎻 Occasional **cellist**, because balance matters.
+
+## 📫 Let's Connect
+
+<a href="https://bsky.app/profile/homerusja.bsky.social">Bluesky</a> • <a href="https://discord.com/users/1086514620921040906">Discord</a>
