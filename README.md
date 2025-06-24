@@ -50,6 +50,18 @@ KiCAD • Fusion 360 • Solid Edge • PlatformIO • Arduino • ESP32/ESP32-C
 
 - [meatie](https://github.com/pmateusz/meatie) — A Python metaprogramming library trying to abstract away mechanics related to HTTP communication
 
+## 🎓 Certifications and Badges
+
+In my programming journey, I have received multiple badges and certifications. Here are some of them.
+
+<div align="center">
+  <a href="https://www.credly.com/badges/d176089d-f465-4504-a600-ca1552c4dc1d/public_url">
+    <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="The GitHub Foundations certification badge" width="40%"/>
+  </a>
+</div>
+
+[![An image of @homerusja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/homerusja)](https://holopin.io/@homerusja)
+
 ## 🎯 Beyond Code
 
 - 🏐 Competitive **volleyball player** — playing in one of the best youth teams in Belgium.
