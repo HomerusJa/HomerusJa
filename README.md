@@ -56,7 +56,10 @@ In my programming journey, I have received multiple badges and certifications. H
 
 <div align="center">
   <a href="https://www.credly.com/badges/d176089d-f465-4504-a600-ca1552c4dc1d/public_url">
-    <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="The GitHub Foundations certification badge" width="40%"/>
+    <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="The GitHub Foundations certification badge" width="33%"/>
+  </a>
+  <a href="https://www.credly.com/badges/a2db874a-2568-4b0b-ba5b-14a723bfc197/public_url">
+    <img src="https://images.credly.com/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" width="33%">
   </a>
 </div>
 
